@@ -135,6 +135,7 @@
     "import/prefer-default-export": 0,
     "array-element-newline": 0,
     "no-process-env": 0,
-    "default-case": 0
+    "default-case": 0,
+    "id-length": 1
   }
 }
